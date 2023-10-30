@@ -1,16 +1,18 @@
 # dot_indicator
 
-A new Flutter project.
+Flutterでdot_indicatorを作成したサンプルです。
+flutterのバージョン3.13.6で作成しました。
 
-## Getting Started
+## 実行方法
+```
+$ flutter pub get
+$ flutter run
+```
 
-This project is a starting point for a Flutter application.
+## 完成例はこちら
+![画面収録 2023-10-30 13 53 30](https://github.com/you22fy/flutter_dot_indicator/assets/93398385/ce2dea6d-d92b-4909-9d4f-5e92c61302df)
 
-A few resources to get you started if this is your first Flutter project:
+## 記事
+この実装を記事にまとめました。
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[【備忘録】flutterのPageViewでドットインジケーター](https://qiita.com/Yu_unI1/items/756f0ae8968751401a34)
